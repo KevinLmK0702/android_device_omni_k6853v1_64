@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_a55_a55.mk
+    $(LOCAL_DIR)/omni_k6853v1_64.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_a55_a55-user \
-    omni_a55_a55-userdebug \
-    omni_a55_a55-eng
+    omni_k6853v1_64-user \
+    omni_k6853v1_64-userdebug \
+    omni_k6853v1_64-eng

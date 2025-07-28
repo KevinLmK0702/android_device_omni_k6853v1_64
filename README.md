@@ -1,4 +1,4 @@
-# Android device tree for Huawei a55_a55 (a55_a55)
+# Android device tree for alps k6853v1_64 (k6853v1_64)
 
 ```
 #

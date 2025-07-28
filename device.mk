@@ -5,4 +5,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/unknown/a55_a55
+LOCAL_PATH := device/alps/k6853v1_64

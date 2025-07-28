@@ -8,8 +8,8 @@
 
 set -e
 
-DEVICE=a55_a55
-VENDOR=unknown
+DEVICE=k6853v1_64
+VENDOR=alps
 
 # Load extract_utils and do some sanity checks
 MY_DIR="${BASH_SOURCE%/*}"
